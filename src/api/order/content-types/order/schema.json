@@ -36,6 +36,9 @@
         "delivered",
         "cancel"
       ]
+    },
+    "userId": {
+      "type": "integer"
     }
   }
 }
